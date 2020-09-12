@@ -34,7 +34,7 @@ date: 2020-09-11 20:25
 ## [PicGo](https://github.com/Molunerfinn/PicGo)配置
 ![](https://raw.githubusercontent.com/MaskBR/ImageHost/master/img/20200912171307.png)
 自定义域名设置方式为:
-***https://raw.githubusercontent.com/用户名/仓库名/分支名***，这样设置完毕后，每次上传完图片，就会将图片地址按照特定格式自动复制到剪贴板，大大方便后续插入使用。
+**_https://raw.githubusercontent.com/用户名/仓库名/分支名_**，这样设置完毕后，每次上传完图片，就会将图片地址按照特定格式自动复制到剪贴板，大大方便后续插入使用。
 点击确定后，[PicGo](https://github.com/Molunerfinn/PicGo)的[GitHub](https://github.com)图床就配置完毕了。
 **补充说明**:
 [PicGo](https://github.com/Molunerfinn/PicGo)可以使用默认快捷键``Command/Ctrl+shift+P``进行快速将剪贴板图片上传至默认图床，如果和其他软件存在快捷键冲突的话，可在[PicGo](https://github.com/Molunerfinn/PicGo)设置中进行更改。
